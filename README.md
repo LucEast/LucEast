@@ -29,11 +29,11 @@ You can find my website at [luceast.de](https://www.luceast.de).
 
 ## &#x1f4c8; GitHub Stats
 
-![LucEast's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucEast&show_icons=true&title_color=3e83c8&text_color=00cb71&icon_color=299bab&bg_color=171717&hide_border=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucEast&langs_count=8&title_color=3e83c8&text_color=00cb71&icon_color=299bab&bg_color=171717&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![LucEast's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucEast&show_icons=true&title_color=3e83c8&text_color=00cb71&icon_color=299bab&bg_color=171717&hide_border=true)
 
+![](https://komarev.com/ghpvc/?username=LucEast)
 
 
 <!--
