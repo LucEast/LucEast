@@ -1,12 +1,25 @@
-![Header](https://raw.githubusercontent.com/LucEast/LucEast/master/brandmark-design2.png "Header")
+![Header](https://raw.githubusercontent.com/LucEast/LucEast/master/images/brandmark-design2.png "Header")
 
+<h2 align="center">
+Hi there, I'm Lucas <img src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/wave.gif" width="20px">
+</h2>
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2 align="center">
+I'm a Systemadministrator/Hacker 💻, Photographer 📸, and Designer 🎨! 
+</h2> 
 
-My name is Lucas [LucEast] Ostmann and I'm a systemadministrator. I'm from Germany and currently working at @krzLemgo. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].   
+My name is Lucas [LucEast] Ostmann and I'm a systemadministrator. I'm from Germany and currently working at <a href ="https://github.com/krzLemgo" target="_blank" rel="noreferrer">@krzLemgo</a>\
 I like Networking and InfoSec.
 
-## &#x270d; Blog & Writing
+### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/linkedin.svg" alt="LucEast | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/instagram.svg" alt="LucEast | Instagram" width="21px"/></a>
+<a href="https://www.twitter.com/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/Twitter.svg" alt="LucEast | Twitter" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+### &#x270d; Blog & Writing
 
 I also maintain a blog where you can find my CTF writeups and other stuff. 
 You can find my website at [luceast.de](https://www.luceast.de).
