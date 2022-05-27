@@ -14,7 +14,7 @@ I like Networking and InfoSec.
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/linkedin.svg" alt="LucEast | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/instagram.svg" alt="LucEast | Instagram" width="21px"/></a>
-<a href="https://www.twitter.com/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/Twitter.svg" alt="LucEast | Twitter" width="21px"/></a>
+<a href="https://www.twitter.com/Luc_East/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/Twitter.svg" alt="LucEast | Twitter" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
