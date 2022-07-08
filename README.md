@@ -1,7 +1,10 @@
 ![Header](https://raw.githubusercontent.com/LucEast/LucEast/master/images/brandmark-design2.png "Header")
 
 <h2 align="center">
-Hi there, I'm Lucas <img src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/wave.gif" width="20px">
+Hi there, I'm Lucas 👋
+<!--
+<img src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/wave.gif" width="20px">
+-->
 </h2>
 
 <h2 align="center">
