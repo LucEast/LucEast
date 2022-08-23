@@ -15,10 +15,161 @@ My name is Lucas [LucEast] Ostmann and I'm a systemadministrator. I'm from Germa
 I like Networking and InfoSec.
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/linkedin.svg" alt="LucEast | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/instagram.svg" alt="LucEast | Instagram" width="21px"/></a>
-<a href="https://www.twitter.com/Luc_East/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/Twitter.svg" alt="LucEast | Twitter" width="21px"/></a>
-</br>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"/>
+
+<style>
+.container {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: 90%;
+    max-width: 1200px;
+    text-align: center;
+}
+
+.container .btn {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    box-shadow: 0 5px 15px -5px #aaa;
+    margin: 10px;
+    border-radius: 30%;
+    overflow: hidden;
+    position: relative;
+    color: #42d2ff;
+}
+
+.container .btn i {
+    position: relative;
+    z-index: 4;
+    line-height: 40px;
+    font-size: 20px;
+    transition: 0.3s ease-in-out;
+}
+
+.container .fa-github {
+    color: #383838;
+}
+    
+.container .gh::before {
+    content: "";
+    position: absolute;
+    width: 120%;
+    height: 120%;
+    background: linear-gradient(#7e7e7e, #3a3a3a);
+    transform: rotate(45deg);
+    left: -110%;
+    top: 90%;
+}
+
+.container .fa-linkedin {
+    color: #0a66c2;
+}
+    
+.container .in::before {
+    content: "";
+    position: absolute;
+    width: 120%;
+    height: 120%;
+    background: linear-gradient(#2391ff, #0059b3);
+    transform: rotate(45deg);
+    left: -110%;
+    top: 90%;
+}
+
+.container .fa-instagram {
+    color: #e33d68;
+}
+    
+.container .ig::before {
+    content: "";
+    position: absolute;
+    width: 120%;
+    height: 120%;
+    background: radial-gradient(circle at 60% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF);
+    transform: rotate(45deg);
+    left: -110%;
+    top: 90%;
+}
+    
+.container .fa-twitter {
+    color: #00c6ff;
+}
+    
+.container .tw::before {
+    content: "";
+    position: absolute;
+    width: 120%;
+    height: 120%;
+    background: linear-gradient(#00c6ff, #0072ff);
+    transform: rotate(45deg);
+    left: -110%;
+    top: 90%;
+}
+    
+
+.container .btn:hover i {
+    color: #fff;
+    transform: scale(1.4);
+}
+
+.container .btn:hover::before {
+    animation: onHover 0.7s 1;
+    left: -10%;
+    top: -10%;
+}
+
+@keyframes onHover {
+    0% {
+        left: -110%;
+        top: 90%;
+    }
+    50% {
+        left: 10%;
+        top: -30%;
+    }
+    100% {
+        top: -10%;
+        left: -10%;
+    }
+}
+
+.container .fa-youtube {
+color: #ff0000;
+}
+
+.container .yt::before {
+    content: "";
+    position: absolute;
+    width: 120%;
+    height: 120%;
+    background: linear-gradient(#ff4949, #ff0000);
+    transform: rotate(45deg);
+    left: -110%;
+    top: 90%;
+}
+</style>
+
+
+<div class="container">
+    <a href="https://linkedin.com/in/LucEast" class="btn in">
+    <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="https://twitter.com/LucEast" class="btn tw">
+    <i class="fab fa-twitter"></i>
+    </a>
+    <a href="https://github.com/LucEast" class="btn gh">
+    <i class="fab fa-github"></i>
+    </a>
+    <a href="https://instagram.com/LucEast" class="btn ig">
+    <i class="fab fa-instagram"></i>
+    </a>
+    <a href="https://youtube.com/LucEast" class="btn yt">
+    <i class="fab fa-youtube"></i>
+    </a>
+</div>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
