@@ -15,26 +15,10 @@ My name is Lucas [LucEast] Ostmann and I'm a systemadministrator. I'm from Germa
 I like Networking and InfoSec.
 
 ### 🤝 Connect with me:
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"/>
-
-<link rel="stylesheet" href="https://raw.githubusercontent.com/LucEast/LucEast/main/style.css"/>
-
-<div class="container">
-    <a href="https://linkedin.com/in/LucEast" class="btn in">
-    <i class="fab fa-linkedin"></i>
-    </a>
-    <a href="https://twitter.com/LucEast" class="btn tw">
-    <i class="fab fa-twitter"></i>
-    </a>
-    <a href="https://github.com/LucEast" class="btn gh">
-    <i class="fab fa-github"></i>
-    </a>
-    <a href="https://instagram.com/LucEast" class="btn ig">
-    <i class="fab fa-instagram"></i>
-    </a>
-    <a href="https://youtube.com/LucEast" class="btn yt">
-    <i class="fab fa-youtube"></i>
-    </a>
+<a href="https://www.linkedin.com/in/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/linkedin.svg" alt="LucEast | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/LucEast/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/instagram.svg" alt="LucEast | Instagram" width="21px"/></a>
+<a href="https://www.twitter.com/Luc_East/"><img align="left" src="https://raw.githubusercontent.com/LucEast/LucEast/master/images/Twitter.svg" alt="LucEast | Twitter" width="21px"/></a>
+</br>
 </div>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
