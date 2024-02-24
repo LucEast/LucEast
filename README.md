@@ -15,8 +15,8 @@ Hi there, I'm Lucas 👋
 I'm a Systemadministrator/Hacker 💻, Photographer 📸, and Designer 🎨! 
 </h2> 
 
-<p align=center> My name is Lucas [LucEast] Ostmann and I'm a systemadministrator. I'm from Germany and currently working at <a href ="https://github.com/krzLemgo" target="_blank" rel="noreferrer">@krzLemgo</a><br>
-I like Networking and InfoSec.
+<p align=center> My name is Lucas [LucEast] Ostmann and I'm a systemadministrator from Germany.
+I like Networking, InfoSec and Kubernetes.
 </p>
 
 <h2 align="center">⚡ STATS ⚡</h2>
