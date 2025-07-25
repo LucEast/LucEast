@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=35&desc=I%20am%20Lucas!&descAlign=50&descSize=30&animation=twinkling">
 </p>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=363A4F&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile+page!" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=89B4FAFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile+page!" alt="Typing SVG" /></a> </p>
 
 
 <!-- ![Header](https://raw.githubusercontent.com/LucEast/LucEast/master/images/brandmark-design2.png "Header")
@@ -19,7 +19,7 @@ DevSecOps 💻 | Hacker 🕵️‍♂️ | Guitarist 🎸 | Photographer 📸 | 
 </h2>
 <p align="center">
 <!--I build systems. I break them. I design them.-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=300&color=363A4F&center=true&vCenter=true&width=435&lines=I+build+systems.;I+break+them.;I+design+them." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=300&color=89B4FAFF&center=true&vCenter=true&width=435&lines=I+build+systems.;I+break+them.;I+design+them." alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">⚡ STATS ⚡</h2>
